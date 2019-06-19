@@ -43,12 +43,19 @@ Write blog showing what I learn in ICML 2019.
 ## Learn how to create the library that stores the benchmarks and models in pytorch for online learning.
 
 ## NEXT TARGET CONFERENCE:
+
 AAAI-20： https://aaai.org/Conferences/AAAI-20/
+
 July 15 – August 30, 2019: Authors register on the AAAI web site
+
 August 30, 2019: Electronic abstracts due at 11:59 PM UTC-10 (midnight Hawaii)
+
 September 5, 2019: Electronic papers due at 11:59 PM UTC-10 (midnight Hawaii)
+
 October 10-13, 2019: Author Feedback Window (5:00pm PDT – 5:00pm PDT)
+
 November 10, 2019: Notification of acceptance or rejection
+
 November 21, 2019: Camera-ready copy due at 5:00 PM PDT (California time)
 
 ## Prepare for the feedback from NeurIPS.
