@@ -3,6 +3,7 @@
 two best papers and seven honorable Mentions. And other papers associated with time series and online learning.
 
 Two best papers:
+
 Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations
 http://proceedings.mlr.press/v97/locatello19a/locatello19a.pdf
 
@@ -10,6 +11,7 @@ Rates of Convergence for Sparse Variational Gaussian Process Regression
 https://arxiv.org/pdf/1903.03571.pdf
 
 Seven Honorable mentions:
+
 Analogies Explained: Towards Understanding Word Embeddings
 https://arxiv.org/pdf/1901.09813.pdf
 
