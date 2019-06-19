@@ -1,29 +1,40 @@
 # Things to Do From 6/19/2019 to 7/6/2019
 1.Read papers in ICML: 
 two best papers and seven honorable Mentions. And other papers associated with time series and online learning.
+
 Two best papers:
 Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations
 http://proceedings.mlr.press/v97/locatello19a/locatello19a.pdf
+
 Rates of Convergence for Sparse Variational Gaussian Process Regression
 https://arxiv.org/pdf/1903.03571.pdf
+
 Seven Honorable mentions:
 Analogies Explained: Towards Understanding Word Embeddings
 https://arxiv.org/pdf/1901.09813.pdf
+
 SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver
 https://arxiv.org/pdf/1905.12149.pdf
+
 A Tail-Index Analysis of Stochastic Gradient Noise in Deep Neural Networks
 https://arxiv.org/pdf/1901.06053.pdf
+
 Towards A Unified Analysis of Random Fourier Features
 https://arxiv.org/pdf/1806.09178.pdf
+
 Amortized Monte Carlo Integration
 http://www.gatsby.ucl.ac.uk/~balaji/udl-camera-ready/UDL-12.pdf
+
 Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning
 https://arxiv.org/pdf/1903.06059.pdf
+
 Stochastic Beams and Where to Find Them: The Gumbel-Top-k Trick for Sampling Sequences Without Replacement
 https://arxiv.org/pdf/1903.06059.pdf
+
 Read these papers, and understand how these papers organized, what the problems they are trying to solve, how their results can help for our further research. 
 Read the papers associated with time series and online learning. Figure out what they are studying and how to use it in our project (in two ways: robust and accuracy).
 Write blog showing what I learn in ICML 2019.
+
 2. Studyng GluonTS. Using their datasets in pytorch and compare the results with Gluon.
 
 3. Learn how to create the library that stores the benchmarks and models in pytorch for online learning.
