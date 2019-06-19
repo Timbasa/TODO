@@ -1,5 +1,6 @@
 # Things to Do From 6/19/2019 to 7/6/2019
-1.Read papers in ICML: 
+
+## Read papers in ICML: 
 two best papers and seven honorable Mentions. And other papers associated with time series and online learning.
 
 Two best papers:
@@ -37,11 +38,11 @@ Read these papers, and understand how these papers organized, what the problems 
 Read the papers associated with time series and online learning. Figure out what they are studying and how to use it in our project (in two ways: robust and accuracy).
 Write blog showing what I learn in ICML 2019.
 
-2. Studyng GluonTS. Using their datasets in pytorch and compare the results with Gluon.
+## Studyng GluonTS. Using their datasets in pytorch and compare the results with Gluon.
 
-3. Learn how to create the library that stores the benchmarks and models in pytorch for online learning.
+## Learn how to create the library that stores the benchmarks and models in pytorch for online learning.
 
-4. NEXT TARGET CONFERENCE:
+## NEXT TARGET CONFERENCE:
 AAAI-20： https://aaai.org/Conferences/AAAI-20/
 July 15 – August 30, 2019: Authors register on the AAAI web site
 August 30, 2019: Electronic abstracts due at 11:59 PM UTC-10 (midnight Hawaii)
@@ -50,4 +51,4 @@ October 10-13, 2019: Author Feedback Window (5:00pm PDT – 5:00pm PDT)
 November 10, 2019: Notification of acceptance or rejection
 November 21, 2019: Camera-ready copy due at 5:00 PM PDT (California time)
 
-5. Prepare for the feedback from NeurIPS.
+## Prepare for the feedback from NeurIPS.
