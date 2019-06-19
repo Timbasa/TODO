@@ -35,8 +35,8 @@ https://arxiv.org/pdf/1903.06059.pdf
 - [ ] Stochastic Beams and Where to Find Them: The Gumbel-Top-k Trick for Sampling Sequences Without Replacement
 https://arxiv.org/pdf/1903.06059.pdf
 
-Read these papers, and understand how these papers organized, what the problems they are trying to solve, how their results can help for our further research. 
-Read the papers associated with time series and online learning. Figure out what they are studying and how to use it in our project (in two ways: robust and accuracy).
+- [ ] Read these papers, and understand how these papers organized, what the problems they are trying to solve, how their results can help for our further research. 
+- [ ] Read the papers associated with time series and online learning. Figure out what they are studying and how to use it in our project (in two ways: robust and accuracy).
 
 - [ ] Write blog showing what I learn in ICML 2019.
 
