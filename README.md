@@ -1,4 +1,4 @@
-# Things to Do From 6/19/2019 to 7/6/2019
+# Things to Do from 6/19/2019 to 7/6/2019
 
 ## Read papers in ICML: 
 
